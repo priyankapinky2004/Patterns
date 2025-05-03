@@ -60,36 +60,23 @@ Each file prints a unique pattern using loops in Java:
 2.Compile and run any file:
 
 ```
-javac butterfly.java
-java butterfly
+   javac butterfly.java
+   java butterfly
 ```
 
 📚 What You'll Learn
-✅ Nested loop mastery
-✅ Console pattern logic
-✅ Conditionals and space handling
-✅ Java syntax and structure
+- ✅ Nested loop mastery
+- ✅ Console pattern logic
+- ✅ Conditionals and space handling
+- ✅ Java syntax and structure
 
 🙌 Contributing
 Contributions are what make the open-source community such an amazing place! 💫
-
-If you’d like to add more patterns or improve existing ones:
-
-Fork the repository
-
-Create your feature branch (git checkout -b feature/PatternX)
-
-Commit your changes (git commit -m 'Added PatternX')
-
-Push to the branch (git push origin feature/PatternX)
-
-Open a pull request 🚀
 
 🏁 Acknowledgements
 💡 Created for learning, revision, and interview preparation.
 🎓 Perfect for BCA, B.Tech, and MCA students and beginners in programming.
 
 📌 Developed by Priyanka Gowda | 🌟 Star this repo if you found it helpful!
-
 
 Let me know if you'd like the output previews of patterns added or a GIF/image for better visual appeal in GitHub.
